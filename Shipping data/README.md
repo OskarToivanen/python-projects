@@ -3,6 +3,11 @@ This project aims to answer the next questions:
 1. What factors influence whether a shipment reaches on time?
 
    - Does the mode of shipment affect the delivery time?
+     Based on the result where the percent is not arrived on time:
+     - Flight 39.842431
+     - Road 41.193182
+     - Ship 40.243902
+       The superior delivery method for fast delivery is by Flight.
    - Does offering a higher discount affect whether shipments are delayed?
    - Is there a relationship between the product's weight and delivery time?
 
